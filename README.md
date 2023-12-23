@@ -1,4 +1,12 @@
 # T_T Pandora's Box
+
+## TLoL-Scraper
+
+This is a fork of the original [T_T-Pandoras-Box](https://github.com/Braziliana/T_T-Pandoras-Box/)
+as described in [this](https://miscellaneousstuff.github.io/project/2023/12/23/tlol-part-7-dataset-transformation.html#replay-dataset) blog post. The purpose of this repository
+is to scrape League of Legends replay files for their contained observations to build a human
+level agent.
+
 ## Alpha release
 <br />
 
