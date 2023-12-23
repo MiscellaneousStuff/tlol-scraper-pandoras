@@ -1,0 +1,92 @@
+[
+  {
+    "Names": [
+      "SRU_Dragon_Air",
+      "SRU_Dragon_Earth",
+      "SRU_Dragon_Fire",
+      "SRU_Dragon_Water",
+      "SRU_Dragon_Hextech",
+      "SRU_Dragon_Chemtech",
+      "SRU_Dragon_Elder"
+    ],
+    "MonsterType": "Dragon"
+  },
+  {
+    "Names": [
+      "SRU_RiftHerald"
+    ],
+    "MonsterType": "Herald"
+  },
+  {
+    "Names": [
+      "SRU_Baron"
+    ],
+    "MonsterType": "Baron"
+  },
+  {
+    "Names": [
+      "Sru_Crab"
+    ],
+    "MonsterType": "Crab"
+  },
+  {
+    "Names": [
+      "SRU_Red"
+    ],
+    "MonsterType": "Red"
+  },
+  {
+    "Names": [
+      "SRU_Blue"
+    ],
+    "MonsterType": "Blue"
+  },
+  {
+    "Names": [
+      "SRU_Gromp"
+    ],
+    "MonsterType": "Gromp"
+  },
+  {
+    "Names": [
+      "SRU_Razorbeak"
+    ],
+    "MonsterType": "Razorbeak"
+  },
+  {
+    "Names": [
+      "SRU_RazorbeakMini"
+    ],
+    "MonsterType": "RazorbeakMini"
+  },
+  {
+    "Names": [
+      "SRU_Murkwolf"
+    ],
+    "MonsterType": "Murkwolf"
+  },
+  {
+    "Names": [
+      "SRU_MurkwolfMini"
+    ],
+    "MonsterType": "MurkwolfMini"
+  },
+  {
+    "Names": [
+      "SRU_Krug"
+    ],
+    "MonsterType": "Krug"
+  },
+  {
+    "Names": [
+      "SRU_KrugMini"
+    ],
+    "MonsterType": "KrugMini"
+  },
+  {
+    "Names": [
+      "SRU_KrugMiniMini"
+    ],
+    "MonsterType": "KrugMiniMini"
+  }
+]

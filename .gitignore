@@ -1,0 +1,75 @@
+## .NET Core
+bin/
+obj/
+out/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.rid.user
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.dbmdl
+*.dbproj.schemaview
+*.pfx
+*.publishsettings
+*.jfm
+*.psess
+*.vsp
+*.vspx
+*.pubxml
+*.vssettings
+
+## Rider-specific
+.idea/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+
+## Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+## VS Code directories
+.vscode/
+.vs/
+
+## Windows thumbnail cache files
+*.db
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## Windows shortcuts
+*.lnk
+
+## JetBrains Rider
+.idea/
+*.sln.iml
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Others
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+#c++
+x64/Release
+Native/x64/Release
+x64/Debug
+Native/x64/Debug
+TestCPP/x64
+T_THybrid/x64

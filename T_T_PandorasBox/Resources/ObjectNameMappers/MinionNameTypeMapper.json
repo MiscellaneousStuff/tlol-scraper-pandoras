@@ -1,0 +1,43 @@
+[
+  {
+    "Names": [
+      "SRU_OrderMinionMelee",
+      "SRU_ChaosMinionMelee"
+    ],
+    "MinionType": "Melee"
+  },
+  {
+    "Names": [
+      "SRU_OrderMinionRanged",
+      "SRU_ChaosMinionRanged"
+    ],
+    "MinionType": "Ranged"
+  },
+  {
+    "Names": [
+      "SRU_OrderMinionSiege",
+      "SRU_ChaosMinionSiege"
+    ],
+    "MinionType": "Canon"
+  },
+  {
+    "Names": [
+      "SRU_OrderMinionSuper",
+      "SRU_ChaosMinionSuper"
+    ],
+    "MinionType": "Super"
+  },
+  {
+    "Names": [
+      "SRU_RiftHerald_Mercenary"
+    ],
+    "MinionType": "Herald"
+  },
+  {
+    "Names": [
+      "BelvethVoidling",
+      "IvernMinion"
+    ],
+    "MinionType": "Creature"
+  }
+]

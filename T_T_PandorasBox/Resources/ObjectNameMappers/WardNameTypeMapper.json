@@ -1,0 +1,26 @@
+[
+  {
+    "Names": [
+      "YellowTrinket"
+    ],
+    "WardType": "Yellow"
+  },
+  {
+    "Names": [
+      "JammerDevice"
+    ],
+    "WardType": "Pink"
+  },
+  {
+    "Names": [
+      "BlueTrinket"
+    ],
+    "WardType": "Blue"
+  },
+  {
+    "Names": [
+      "Sru_CrabWard"
+    ],
+    "WardType": "Crab"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Names": [
+      "SRU_Plant_Vision"
+    ],
+    "PlantType": "Vision"
+  },
+  {
+    "Names": [
+      "SRU_Plant_Health"
+    ],
+    "PlantType": "Health"
+  },
+  {
+    "Names": [
+      "SRU_Plant_Satchel"
+    ],
+    "PlantType": "Satchel"
+  }
+]

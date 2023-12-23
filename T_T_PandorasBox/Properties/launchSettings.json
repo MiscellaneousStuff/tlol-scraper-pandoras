@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "T_T_PandorasBox": {
+      "commandName": "Project",
+      "commandLineArgs": "replay_file=\"EUW1-69.json\"\r\nreplay_mult=8\r\nreplay_cmd=\"python C:\\Users\\win8t\\OneDrive\\Desktop\\projects\\tlol-all\\tlol\\set_replay.py\""
+    }
+  }
+}

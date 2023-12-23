@@ -1,0 +1,74 @@
+[
+  {
+    "Names": [
+      "SRU_OrderMinionMelee",
+      "SRU_OrderMinionRanged",
+      "SRU_OrderMinionSiege",
+      "SRU_OrderMinionSuper",
+      "SRU_ChaosMinionMelee",
+      "SRU_ChaosMinionRanged",
+      "SRU_ChaosMinionSiege",
+      "SRU_ChaosMinionSuper",
+      "SRU_RiftHerald_Mercenary",
+      "BelvethVoidling"
+    ],
+    "GameObjectType": "Minion"
+  },
+  {
+    "Names": [
+      "SRU_Red",
+      "SRU_Blue",
+      "SRU_Razorbeak",
+      "SRU_RazorbeakMini",
+      "SRU_Murkwolf",
+      "SRU_MurkwolfMini",
+      "SRU_Gromp",
+      "SRU_Krug",
+      "SRU_KrugMini",
+      "SRU_KrugMiniMini",
+      "Sru_Crab",
+      "SRU_RiftHerald",
+      "SRU_Dragon_Air",
+      "SRU_Dragon_Earth",
+      "SRU_Dragon_Fire",
+      "SRU_Dragon_Water",
+      "SRU_Dragon_Hextech",
+      "SRU_Dragon_Chemtech",
+      "SRU_Dragon_Elder",
+      "SRU_Baron"
+    ],
+    "GameObjectType": "Monster"
+  },
+  {
+    "Names": [
+      "BlueTrinket",
+      "YellowTrinket",
+      "JammerDevice"
+    ],
+    "GameObjectType": "Ward"
+  },
+  {
+    "Names": [
+      "SRU_Plant_Vision",
+      "SRU_Plant_Satchel",
+      "SRU_Plant_Health"
+    ],
+    "GameObjectType": "Plant"
+  },
+  {
+    "Names": [
+      "Jinx_Mine",
+      "CaitlynTrap",
+      "TeemoMushroom",
+      "JhinTrap",
+      "ShacoBox"
+    ],
+    "GameObjectType": "Trap"
+  },
+  {
+    "Names": [
+      "Shaco"
+    ],
+    "GameObjectType": "Clone"
+  }
+]
